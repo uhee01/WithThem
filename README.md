@@ -2,6 +2,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-F66A0A?style=for-the-badge&logo=multer&logoColor=white) ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black) ![express-session](https://img.shields.io/badge/express--session-337AB7?style=for-the-badge&logo=express-session&logoColor=white) ![cors](https://img.shields.io/badge/CORS-DB7093?style=for-the-badge&logo=cors&logoColor=white)
 
+<br>
 
 ## 🌟 프로젝트 개요
 
@@ -18,6 +19,8 @@ with-them 사용자가 그룹을 생성하고, 그룹 내에서 다양한 활동
 - **환경 변수 관리**: dotenv
 - **세션 관리**: express-session
 - **CORS 설정**: cors
+
+<br>
 
 ## 🚀 주요 기능
 
@@ -44,6 +47,8 @@ with-them 사용자가 그룹을 생성하고, 그룹 내에서 다양한 활동
     - 사용자는 닉네임과 프로필 사진을 업데이트할 수 있습니다.
     - 닉네임 중복 확인 기능을 통해 중복된 닉네임을 방지합니다.
 
+<br>
+
 ## 📸 스크린샷
 
 ### 🌐 메인 화면
@@ -52,6 +57,7 @@ with-them 사용자가 그룹을 생성하고, 그룹 내에서 다양한 활동
 ### 🔍 디테일 화면
 ![Detail Screen](./git-images/git-detail.png)
 
+<br>
 
 ## 🛠️ 개발 과정
 
@@ -86,6 +92,8 @@ with-them 사용자가 그룹을 생성하고, 그룹 내에서 다양한 활동
 
 8. **🔗 프론트엔드와의 연동**
     - React로 구성된 프론트엔드와 백엔드를 연동하여 전체적인 애플리케이션을 완성합니다.
+
+<br>
 
 ## ⚠️ 어려웠던 부분과 해결 과정
 
