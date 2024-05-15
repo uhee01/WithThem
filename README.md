@@ -1,4 +1,4 @@
-# 👥 with-them 👥
+![스크린샷 2024-05-14 005046](https://github.com/uhee01/WithThem/assets/169752182/7abe9558-e853-4528-afc2-3d1ed9c085ad)# 👥 with-them 👥
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black) ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-F66A0A?style=for-the-badge&logo=multer&logoColor=white) ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black) ![express-session](https://img.shields.io/badge/express--session-337AB7?style=for-the-badge&logo=express-session&logoColor=white) ![cors](https://img.shields.io/badge/CORS-DB7093?style=for-the-badge&logo=cors&logoColor=white)
 
@@ -47,10 +47,10 @@ with-them 사용자가 그룹을 생성하고, 그룹 내에서 다양한 활동
 ## 📸 스크린샷
 
 ### 🌐 메인 화면
-![Main Screen](./public/images/git-main.png)
+![Main Screen](./git-images/git-main.png)
 
 ### 🔍 디테일 화면
-![Weather Modal](./public/images/git-detail.png)
+![Detail Screen](./git-images/git-detail.png)
 
 
 ## 🛠️ 개발 과정
